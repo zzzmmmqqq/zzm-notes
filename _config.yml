@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 direction                : # "ltr" (default), "rtl" # set the direction of the page
-title                    : "Site Title"
+title                    : "zzm的liunx笔记"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "zzm"
+description              : "个人技术笔记"
 url                      : "https://zzzmmmqqq.github.io"
 baseurl                  : "/zzm-notes"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
