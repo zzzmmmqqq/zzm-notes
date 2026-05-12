@@ -326,7 +326,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: # true
       share: true
@@ -338,5 +338,4 @@ defaults:
       layout: single
       sidebar:
         nav: "docs"
-        sticky: true      
-        nav_toggle: true  
+        mobile_nav: true 
