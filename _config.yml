@@ -330,4 +330,5 @@ defaults:
       read_time: true
       comments: # true
       share: true
-      related: true这次可以了吗
+      related: true
+default_sidebar: "docs"
