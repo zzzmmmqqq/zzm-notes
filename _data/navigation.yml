@@ -7,7 +7,7 @@ docs:
   - title: "学习笔记"
     children:
       - title: "00-服务器基础"
-        url: /
+        url: /pages/server/
       - title: "01-Linux核心基础"
         url: /linux/
       - title: "02-系统服务"
