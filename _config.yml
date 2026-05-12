@@ -338,3 +338,5 @@ defaults:
       layout: single
       sidebar:
         nav: "docs"
+        sticky: true      
+        nav_toggle: true  
