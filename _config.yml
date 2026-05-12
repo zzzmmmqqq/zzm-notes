@@ -331,4 +331,10 @@ defaults:
       comments: # true
       share: true
       related: true
-default_sidebar: "docs"
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      sidebar:
+        nav: "docs"
