@@ -9,7 +9,7 @@ docs:
       - title: "00-服务器基础"
         url: /pages/server/
       - title: "01-linux核心基础"
-        url: /linux/
+        url: /pages/server/
       - title: "02-系统服务"
         url: /service/
   - title: "架构篇"
